@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CDXI",
+      "hasCanvas": false,
+      "bodyTextLen": 5699,
+      "bodyTextHash": "c23eacad848a15b3abd63b0fbe4bbabe86291f8f5b2c4a7220ff1098e1e620f4",
+      "bodyTextPrefix": "Skip to the practice CDXI Practice Services Support Terms Begin ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CDXI",
+      "hasCanvas": false,
+      "bodyTextLen": 5681,
+      "bodyTextHash": "3833f42f21c337b8e72b4b44cffa78fd91bd32ffb56faf5701d1a9e2ee89dad0",
+      "bodyTextPrefix": "Skip to the practice CDXI Practice Services Support Terms Begin ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

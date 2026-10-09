@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #07060c;
+  --color-surface: #121018;
+  --color-raised: #1c1826;
+  --color-fg: #f4f0ea;
+  --color-muted: #a39bb4;
+  --color-accent: #c9b6ff;
+  --color-ink: #140e22;
+  --color-line: #2c2838;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --radius-lg: 0.75rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background: var(--color-bg);
+    color: var(--color-fg);
+    font-family: var(--font-sans);
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: not-allowed;
+    opacity: 0.4;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+.sky {
+  overflow-x: clip;
+  background-color: var(--color-bg);
+  background-image:
+    radial-gradient(1px 1px at 8% 14%, rgb(244 240 234 / 0.75) 50%, transparent 52%),
+    radial-gradient(1px 1px at 22% 72%, rgb(201 182 255 / 0.8) 50%, transparent 52%),
+    radial-gradient(1.5px 1.5px at 71% 9%, rgb(244 240 234 / 0.85) 50%, transparent 52%),
+    radial-gradient(1px 1px at 84% 38%, rgb(201 182 255 / 0.7) 50%, transparent 52%),
+    radial-gradient(1px 1px at 46% 88%, rgb(244 240 234 / 0.45) 50%, transparent 52%),
+    radial-gradient(1px 1px at 91% 78%, rgb(244 240 234 / 0.55) 50%, transparent 52%),
+    radial-gradient(1px 1px at 63% 24%, rgb(244 240 234 / 0.4) 50%, transparent 52%);
+}
+
+.planet-well {
+  width: min(100%, 26rem);
+  margin-inline: auto;
+  perspective: 900px;
+}
+
+.planet-stage {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  margin-inline: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  transform: rotateX(var(--tilt-x, 10deg)) rotateY(var(--tilt-y, -16deg));
+  transform-style: preserve-3d;
+  transition: transform 180ms ease;
+}
+
+.planet-ring {
+  position: absolute;
+  inset: 16% 0 auto;
+  top: 46%;
+  height: 16%;
+  border-radius: 50%;
+  border: 1px solid color-mix(in oklab, var(--color-accent) 75%, transparent);
+  box-shadow: 0 0 0 7px color-mix(in oklab, var(--color-accent) 12%, transparent);
+  transform: rotateX(72deg);
+}
+
+.planet-glow {
+  position: absolute;
+  inset: 8%;
+  border-radius: 999px;
+  background: radial-gradient(circle, color-mix(in oklab, var(--color-accent) 42%, transparent), transparent 68%);
+}
+
+.planet-body {
+  position: absolute;
+  inset: 12%;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #1a1030;
+  box-shadow:
+    inset -18% -6% 22% rgb(0 0 0 / 0.62),
+    inset 10% 8% 18% rgb(244 240 234 / 0.18);
+}
+
+.planet-surface {
+  position: absolute;
+  inset: -35%;
+  background:
+    radial-gradient(circle at 30% 26%, rgb(244 240 234 / 0.72), transparent 16%),
+    radial-gradient(circle at 64% 62%, rgb(201 182 255 / 0.4), transparent 20%),
+    repeating-linear-gradient(
+      180deg,
+      #2a1848 0 7%,
+      #6d58a4 7% 13%,
+      #140e22 13% 21%,
+      #c9b6ff 21% 23%,
+      #3a2860 23% 35%,
+      #1a1030 35% 47%,
+      #8d78c8 47% 53%,
+      #241838 53% 69%,
+      #d9cff8 69% 72%,
+      #120c1e 72% 100%
+    );
+  animation: planet-spin 72s linear infinite;
+}
+
+.planet-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(108deg, rgb(7 6 12 / 0.78), transparent 48% 70%, rgb(244 240 234 / 0.12));
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+@keyframes planet-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .planet-surface {
+    animation: none;
+  }
+
+  .planet-stage {
+    transition: none;
+  }
+}

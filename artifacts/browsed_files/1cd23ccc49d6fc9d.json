@@ -1,0 +1,322 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "d218143954d25ff689dc8149c3111f970d497c04",
+    "size": 51,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/d218143954d25ff689dc8149c3111f970d497c04",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/d218143954d25ff689dc8149c3111f970d497c04",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".grok",
+    "path": ".grok",
+    "sha": "f3d5c2a8bd63ebc02928373a08a5edf787087bc2",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.grok?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/.grok",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/f3d5c2a8bd63ebc02928373a08a5edf787087bc2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.grok?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/f3d5c2a8bd63ebc02928373a08a5edf787087bc2",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/.grok"
+    }
+  },
+  {
+    "name": ".node_modules.lock",
+    "path": ".node_modules.lock",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.node_modules.lock?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.node_modules.lock",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/.node_modules.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.node_modules.lock?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.node_modules.lock"
+    }
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "bccee911b6b0dac9051d360fbc5e0a6303eed8fb",
+    "size": 90,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.prettierrc?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.prettierrc",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/bccee911b6b0dac9051d360fbc5e0a6303eed8fb",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.prettierrc?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/bccee911b6b0dac9051d360fbc5e0a6303eed8fb",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/.prettierrc"
+    }
+  },
+  {
+    "name": ".vercel",
+    "path": ".vercel",
+    "sha": "a105a08ca4a88224ea0c4d4c6e597d382b74f13a",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.vercel?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/.vercel",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/a105a08ca4a88224ea0c4d4c6e597d382b74f13a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/.vercel?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/a105a08ca4a88224ea0c4d4c6e597d382b74f13a",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/.vercel"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "3de21a250ebb121e0b732822c628c93d5db7ffc4",
+    "size": 18920,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/3de21a250ebb121e0b732822c628c93d5db7ffc4",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/3de21a250ebb121e0b732822c628c93d5db7ffc4",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "attachments",
+    "path": "attachments",
+    "sha": "c7ebcecb2722b353211f6b5eaeb74a6eb138f5af",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/attachments?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/attachments",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/c7ebcecb2722b353211f6b5eaeb74a6eb138f5af",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/attachments?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/c7ebcecb2722b353211f6b5eaeb74a6eb138f5af",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/attachments"
+    }
+  },
+  {
+    "name": "eslint.config.mjs",
+    "path": "eslint.config.mjs",
+    "sha": "bfc3c2560b42997c103f92bb5b681ce46163eb0c",
+    "size": 1277,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/eslint.config.mjs?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/eslint.config.mjs",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/bfc3c2560b42997c103f92bb5b681ce46163eb0c",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/eslint.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/eslint.config.mjs?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/bfc3c2560b42997c103f92bb5b681ce46163eb0c",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/eslint.config.mjs"
+    }
+  },
+  {
+    "name": "migrations",
+    "path": "migrations",
+    "sha": "281e531fc6383e1a2a302223472f3329dbdb3e9f",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/migrations?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/migrations",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/281e531fc6383e1a2a302223472f3329dbdb3e9f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/migrations?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/281e531fc6383e1a2a302223472f3329dbdb3e9f",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/migrations"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "db5d1a0d0f24dd8e953c15f09a0a5791b67e51de",
+    "size": 264665,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/db5d1a0d0f24dd8e953c15f09a0a5791b67e51de",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/db5d1a0d0f24dd8e953c15f09a0a5791b67e51de",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "6871699ab880e6629a27ec34cab38dc687a17ef4",
+    "size": 3506,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/package.json?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/6871699ab880e6629a27ec34cab38dc687a17ef4",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/6871699ab880e6629a27ec34cab38dc687a17ef4",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/package.json"
+    }
+  },
+  {
+    "name": "public",
+    "path": "public",
+    "sha": "d83c7d6b75ad0dfeb40c5edb92cbe53ecb6a7140",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/public?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/public",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/d83c7d6b75ad0dfeb40c5edb92cbe53ecb6a7140",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/public?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/d83c7d6b75ad0dfeb40c5edb92cbe53ecb6a7140",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/public"
+    }
+  },
+  {
+    "name": "screenshots",
+    "path": "screenshots",
+    "sha": "1a34ccd54dabc05ce775f348dc6594a09b8a74c9",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/screenshots?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/screenshots",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/1a34ccd54dabc05ce775f348dc6594a09b8a74c9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/screenshots?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/1a34ccd54dabc05ce775f348dc6594a09b8a74c9",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/screenshots"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "e5a01b1cf232d745dd87ff6baef1d1b8183b22a8",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/scripts?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/e5a01b1cf232d745dd87ff6baef1d1b8183b22a8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/e5a01b1cf232d745dd87ff6baef1d1b8183b22a8",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/scripts"
+    }
+  },
+  {
+    "name": "server",
+    "path": "server",
+    "sha": "2d4cfc78f759f4a941a9528cabd11f1b244c6560",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/server?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/server",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/2d4cfc78f759f4a941a9528cabd11f1b244c6560",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/server?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/2d4cfc78f759f4a941a9528cabd11f1b244c6560",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/server"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "4e99a83811fc6838dec7584e58047b48bc8073f4",
+    "size": 0,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/src?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/tree/main/src",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/4e99a83811fc6838dec7584e58047b48bc8073f4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/src?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/trees/4e99a83811fc6838dec7584e58047b48bc8073f4",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/tree/main/src"
+    }
+  },
+  {
+    "name": "startup.sh",
+    "path": "startup.sh",
+    "sha": "c4d943c1cf5c78df19a8126a2747b482de2ba0fd",
+    "size": 191,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/startup.sh?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/startup.sh",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/c4d943c1cf5c78df19a8126a2747b482de2ba0fd",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/startup.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/startup.sh?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/c4d943c1cf5c78df19a8126a2747b482de2ba0fd",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/startup.sh"
+    }
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "07bc32dfecc5baf3cf3adae2a9775a21c6732086",
+    "size": 753,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/tsconfig.json?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/tsconfig.json",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/07bc32dfecc5baf3cf3adae2a9775a21c6732086",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/tsconfig.json?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/07bc32dfecc5baf3cf3adae2a9775a21c6732086",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/tsconfig.json"
+    }
+  },
+  {
+    "name": "vercel.json",
+    "path": "vercel.json",
+    "sha": "1c00aa58be1fc08fc0ef50cedbf813a8bc3f4cb6",
+    "size": 70,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/vercel.json?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/vercel.json",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/1c00aa58be1fc08fc0ef50cedbf813a8bc3f4cb6",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/vercel.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/vercel.json?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/1c00aa58be1fc08fc0ef50cedbf813a8bc3f4cb6",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/vercel.json"
+    }
+  },
+  {
+    "name": "vite.config.ts",
+    "path": "vite.config.ts",
+    "sha": "f0aa67ddb6b5067c5aece4678259caa57638aa5a",
+    "size": 6750,
+    "url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/vite.config.ts?ref=main",
+    "html_url": "https://github.com/cdxidigital/thefourtee2universe/blob/main/vite.config.ts",
+    "git_url": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/f0aa67ddb6b5067c5aece4678259caa57638aa5a",
+    "download_url": "https://raw.githubusercontent.com/cdxidigital/thefourtee2universe/main/vite.config.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cdxidigital/thefourtee2universe/contents/vite.config.ts?ref=main",
+      "git": "https://api.github.com/repos/cdxidigital/thefourtee2universe/git/blobs/f0aa67ddb6b5067c5aece4678259caa57638aa5a",
+      "html": "https://github.com/cdxidigital/thefourtee2universe/blob/main/vite.config.ts"
+    }
+  }
+]
